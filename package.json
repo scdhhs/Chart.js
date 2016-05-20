@@ -1,12 +1,12 @@
 {
-  "name": "chart.js",
+  "name": "scdhhs-chartjs",
   "homepage": "http://www.chartjs.org",
-  "description": "Simple HTML5 charts using the canvas element.",
+  "description": "SCDHHS fork of Chart.js - Simple HTML5 charts using the canvas element.",
   "version": "1.1.1",
   "main": "Chart.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nnnick/Chart.js.git"
+    "url": "https://github.com/scdhhs/Chart.js"
   },
   "license": "MIT",
   "dependences": {},
